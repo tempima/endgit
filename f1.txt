@@ -1,3 +1,4 @@
 1:wq
 2
 3-> git checkout mybranch1
+4-> branch mybranch1 2
